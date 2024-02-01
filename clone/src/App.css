@@ -1,0 +1,195 @@
+.App {
+  background-color: #252525;
+}
+
+.logo {
+  height: 45px;
+  width: auto;
+}
+
+.navbar {
+  padding: 10px 0;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 60px;
+  padding: 0;
+}
+
+.nav-links li {
+  cursor: pointer;
+  margin-right: 60px;
+}
+
+.nav-links li:last-child {
+  margin-right: 0;
+}
+
+.nav-links li {
+  color: #888;
+}
+
+.nav-links li:hover {
+  color: #fff;
+}
+
+.nav-links li .search-icon {
+  font-size: 20px;
+}
+
+.nav-links li .cart-icon {
+  font-size: 30px;
+}
+
+.bg-brown {
+  background-color: #1a1a1a;
+  color: #fff;
+  padding: 15px 0;
+}
+
+.navlinks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  font-size: 13px;
+  margin: 0 60px;
+}
+
+.navlinks li {
+  cursor: pointer;
+  margin-right: 60px;
+}
+
+.navlinks li:last-child {
+  margin-right: 100px;
+}
+
+.navlinks li:hover {
+  color: #39ff14;
+}
+
+.ads {
+  background-color: #555;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  border-top: 1px solid #39ff14;
+}
+
+.ads p {
+  color: #fff;
+  font-size: 15px;
+  margin: 1px 0;
+}
+
+.ads a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.ads a:hover {
+  text-decoration: underline;
+}
+
+.headlines {
+  background-color: #111111;
+  width: 100%;
+  padding: 40px 450px;
+}
+
+.headlines h1 {
+  color: #39ff14;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+}
+
+.headlines h4 {
+  color: #888;
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.shop {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 80%;
+  margin-left: 300px;
+}
+
+.shop-box {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.shop-item {
+  background-color: #111;
+  width: 400px;
+  border-bottom: 1px solid #39ff14;
+}
+
+.shop-item img {
+  width: 100%;
+}
+
+.shop-item h4 {
+  color: #fff;
+  font-weight: 100;
+}
+
+.shop-item p {
+  color: #888;
+}
+
+.shop-item a {
+  text-decoration: none;
+  color: #39ff14;
+}
+
+.setup {
+  margin-top: 40px;
+  border-bottom: 1px solid #39ff14;
+}
+
+.software {
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: #111;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+
+.flinks li:first-child {
+  color: #fff;
+}
+
+.flinks {
+  margin: 20px;
+  color: #888;
+  display: flex;
+  justify-content: center;
+}
+
+.flinks ul {
+  list-style: none;
+  margin: 20px;
+  line-height: 2;
+}
+
+.footer span {
+  color: #39ff14;
+  margin-top: 40px;
+  padding-right: 100px;
+}
