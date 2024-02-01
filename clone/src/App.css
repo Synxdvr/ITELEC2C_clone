@@ -144,15 +144,18 @@
 .shop-item h4 {
   color: #fff;
   font-weight: 100;
+  margin: 6px;
 }
 
 .shop-item p {
+  margin: 6px;
   color: #888;
 }
 
 .shop-item a {
   text-decoration: none;
   color: #39ff14;
+  margin: 6px;
 }
 
 .setup {
